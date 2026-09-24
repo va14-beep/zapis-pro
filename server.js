@@ -12,7 +12,7 @@ const FileSync = require('lowdb/adapters/FileSync');
 const app = express();
 const PORT = process.env.PORT || 3000;
 const JWT_SECRET = 'zapis-pro-secret-key-change-me-in-production-2026';
-const ADMIN_PASSWORD = 'admin123'; // Смени после первого входа!
+const ADMIN_PASSWORD = 'Gagog666@123'; // Смени после первого входа!
 const TELEGRAM_BOT_TOKEN = '8254079901:AAEnyVW8HW3C5s1Ssu9nCP1Kmjp_RTnQj9A';
 
 // База данных
